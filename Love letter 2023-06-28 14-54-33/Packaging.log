@@ -1,0 +1,176 @@
+2023-06-28 05:54:25 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x2dfdcc9b0; archive(resolved)="<IDEArchive: 0x600021d46400>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodDevelopmentSigned: 0x600077abb3c0>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x60000207f4c0; teamID='JB63VVN2W3', teamName='BLife', teamType='Company', username='dev@blifeinc.com', isFreeProvisioningTeam='0'>">
+	Chain (14, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x2dfdcc9b0; archive = "<IDEArchive: 0x600021d46400>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600077abb3c0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000207f4c0; teamID='JB63VVN2W3', teamName='BLife', teamType='Company', username='dev@blifeinc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x2dfdce1c0; archive = "<IDEArchive: 0x600021d46400>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600077abb3c0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000207f4c0; teamID='JB63VVN2W3', teamName='BLife', teamType='Company', username='dev@blifeinc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2dfdcd290; archive = "<IDEArchive: 0x600021d46400>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600077abb3c0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000207f4c0; teamID='JB63VVN2W3', teamName='BLife', teamType='Company', username='dev@blifeinc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2d55defa0; archive = "<IDEArchive: 0x600021d46400>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600077abb3c0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000207f4c0; teamID='JB63VVN2W3', teamName='BLife', teamType='Company', username='dev@blifeinc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2dfd65790; archive = "<IDEArchive: 0x600021d46400>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600077abb3c0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000207f4c0; teamID='JB63VVN2W3', teamName='BLife', teamType='Company', username='dev@blifeinc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2dfd65570; archive = "<IDEArchive: 0x600021d46400>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600077abb3c0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000207f4c0; teamID='JB63VVN2W3', teamName='BLife', teamType='Company', username='dev@blifeinc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2d525e5a0; archive = "<IDEArchive: 0x600021d46400>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600077abb3c0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000207f4c0; teamID='JB63VVN2W3', teamName='BLife', teamType='Company', username='dev@blifeinc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2d503c490; archive = "<IDEArchive: 0x600021d46400>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600077abb3c0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000207f4c0; teamID='JB63VVN2W3', teamName='BLife', teamType='Company', username='dev@blifeinc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2d3e87120; archive = "<IDEArchive: 0x600021d46400>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600077abb3c0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000207f4c0; teamID='JB63VVN2W3', teamName='BLife', teamType='Company', username='dev@blifeinc.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2d4e4c160; archive = "<IDEArchive: 0x600021d46400>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600077abb3c0>", team="(null)">
+	<IDEDistributionContext: 0x2d503c270; archive = "<IDEArchive: 0x600021d46400>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600077abb3c0>", team="(null)">
+	<IDEDistributionContext: 0x2d4e50870; archive = "<IDEArchive: 0x600021d46400>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600077abb3c0>", team="(null)">
+	<IDEDistributionContext: 0x2d142f4b0; archive = "<IDEArchive: 0x600021d46400>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600077abb3c0>", team="(null)">
+	<IDEDistributionContext: 0x2d3ea98c0; archive = "<IDEArchive: 0x600021d46400>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x2dfdcc9b0>
+2023-06-28 05:54:25 +0000  Processing step: IDEDistributionCreateDestRootStep
+2023-06-28 05:54:25 +0000  Processing step: IDEDistributionCopyItemStep
+2023-06-28 05:54:25 +0000  Running /usr/bin/ditto '-V' '/Users/kjw/Library/Developer/Xcode/Archives/2023-06-28/Love letter 2023-06-28 2.53 PM.xcarchive/Products/Applications/Love letter.app' '/var/folders/2g/5hbtwk455rgbfp28lf7bv95h0000gn/T/XcodeDistPipeline.~~~OVoHxI/Root/Payload/Love letter.app'
+2023-06-28 05:54:25 +0000  >>> Copying /Users/kjw/Library/Developer/Xcode/Archives/2023-06-28/Love letter 2023-06-28 2.53 PM.xcarchive/Products/Applications/Love letter.app 
+2023-06-28 05:54:25 +0000  copying file ./_CodeSignature/CodeResources ... 
+2023-06-28 05:54:25 +0000  6611 bytes for ./_CodeSignature/CodeResources
+2023-06-28 05:54:25 +0000  copying file ./Love letter ... 
+2023-06-28 05:54:25 +0000  663328 bytes for ./Love letter
+2023-06-28 05:54:25 +0000  copying file ./GoogleService-Info.plist ... 
+2023-06-28 05:54:25 +0000  673 bytes for ./GoogleService-Info.plist
+2023-06-28 05:54:25 +0000  copying file ./Base.lproj/Main.storyboardc/shopView.nib ... 
+2023-06-28 05:54:25 +0000  1021 bytes for ./Base.lproj/Main.storyboardc/shopView.nib
+2023-06-28 05:54:25 +0000  copying file ./Base.lproj/Main.storyboardc/0Jf-zX-9fL-view-nRS-Fb-Ymz.nib ... 
+2023-06-28 05:54:25 +0000  11304 bytes for ./Base.lproj/Main.storyboardc/0Jf-zX-9fL-view-nRS-Fb-Ymz.nib
+2023-06-28 05:54:25 +0000  copying file ./Base.lproj/Main.storyboardc/uVv-9C-NX9-view-1c7-VG-Txk.nib ... 
+2023-06-28 05:54:25 +0000  14983 bytes for ./Base.lproj/Main.storyboardc/uVv-9C-NX9-view-1c7-VG-Txk.nib
+2023-06-28 05:54:25 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2023-06-28 05:54:25 +0000  978 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2023-06-28 05:54:25 +0000  copying file ./Base.lproj/Main.storyboardc/1QM-3h-Urn-view-GTa-DC-gA7.nib ... 
+2023-06-28 05:54:25 +0000  14481 bytes for ./Base.lproj/Main.storyboardc/1QM-3h-Urn-view-GTa-DC-gA7.nib
+2023-06-28 05:54:25 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2023-06-28 05:54:25 +0000  11136 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2023-06-28 05:54:25 +0000  copying file ./Base.lproj/Main.storyboardc/letterpop.nib ... 
+2023-06-28 05:54:25 +0000  1023 bytes for ./Base.lproj/Main.storyboardc/letterpop.nib
+2023-06-28 05:54:25 +0000  copying file ./Base.lproj/Main.storyboardc/Baq-G5-c7j-view-c3A-mE-6eg.nib ... 
+2023-06-28 05:54:25 +0000  4567 bytes for ./Base.lproj/Main.storyboardc/Baq-G5-c7j-view-c3A-mE-6eg.nib
+2023-06-28 05:54:25 +0000  copying file ./Base.lproj/Main.storyboardc/setView.nib ... 
+2023-06-28 05:54:25 +0000  1023 bytes for ./Base.lproj/Main.storyboardc/setView.nib
+2023-06-28 05:54:25 +0000  copying file ./Base.lproj/Main.storyboardc/letterView.nib ... 
+2023-06-28 05:54:25 +0000  1025 bytes for ./Base.lproj/Main.storyboardc/letterView.nib
+2023-06-28 05:54:25 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2023-06-28 05:54:25 +0000  367 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2023-06-28 05:54:25 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2023-06-28 05:54:25 +0000  1197 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2023-06-28 05:54:25 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2023-06-28 05:54:25 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2023-06-28 05:54:25 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2023-06-28 05:54:25 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2023-06-28 05:54:25 +0000  copying file ./Assets.car ... 
+2023-06-28 05:54:26 +0000  2901360 bytes for ./Assets.car
+2023-06-28 05:54:26 +0000  copying file ./embedded.mobileprovision ... 
+15097 bytes for ./embedded.mobileprovision
+copying file ./Info.plist ... 
+1613 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+8 bytes for ./PkgInfo
+2023-06-28 05:54:26 +0000  /usr/bin/ditto exited with 0
+2023-06-28 05:54:26 +0000  Processing step: IDEDistributionEmbedProfileStep
+2023-06-28 05:54:26 +0000  Processing step: IDEDistributionInfoPlistStep
+2023-06-28 05:54:26 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-06-28 05:54:26 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2023-06-28 05:54:26 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2023-06-28 05:54:26 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2023-06-28 05:54:26 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2023-06-28 05:54:26 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2023-06-28 05:54:26 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2023-06-28 05:54:26 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-06-28 05:54:26 +0000  Processing step: IDEDistributionSymbolsStep
+2023-06-28 05:54:26 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-06-28 05:54:26 +0000  Processing step: IDEDistributionAppThinningStep
+2023-06-28 05:54:26 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2023-06-28 05:54:26 +0000  Processing step: IDEDistributionArchThinningStep
+2023-06-28 05:54:26 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/2g/5hbtwk455rgbfp28lf7bv95h0000gn/T/XcodeDistPipeline.~~~OVoHxI/Root/Payload/Love letter.app/Love letter' '-verify_arch' 'arm64e'
+2023-06-28 05:54:26 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-06-28 05:54:26 +0000  Skipping architecture thinning for item "Love letter" because arch "arm64e" wasn't found
+2023-06-28 05:54:26 +0000  Processing step: IDEDistributionODRStep
+2023-06-28 05:54:26 +0000  Processing step: IDEDistributionStripXattrsStep
+2023-06-28 05:54:26 +0000  Running /usr/bin/xattr '-crs' '/var/folders/2g/5hbtwk455rgbfp28lf7bv95h0000gn/T/XcodeDistPipeline.~~~OVoHxI/Root/Payload/Love letter.app'
+2023-06-28 05:54:26 +0000  /usr/bin/xattr exited with 0
+2023-06-28 05:54:26 +0000  Processing step: IDEDistributionCodesignStep
+2023-06-28 05:54:26 +0000  Entitlements for <IDEDistributionItem: 0x600021d56a00; bundleID='Blifeinc.com.Love-letter', path='<DVTFilePath:0x600011318460:'/Users/kjw/Library/Developer/Xcode/Archives/2023-06-28/Love letter 2023-06-28 2.53 PM.xcarchive/Products/Applications/Love letter.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600031b95bd0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600008f3bde0; name='Apple Development: HeeJeong Park (G9XF97H2JF)', hash='CCF6CD9E1F232FFE56D7C508AB6003F05BC1E237', serialNumber='50F990C9245384713146867468D2211D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-05-03 07:08:41 +0000''>', entitlements='{
+    "application-identifier" = "JB63VVN2W3.Blifeinc.com.Love-letter";
+    "com.apple.developer.team-identifier" = JB63VVN2W3;
+    "get-task-allow" = 1;
+}', teamID='JB63VVN2W3', identifier='Blifeinc.com.Love-letter', executablePath='<DVTFilePath:0x6000113eef40:'/Users/kjw/Library/Developer/Xcode/Archives/2023-06-28/Love letter 2023-06-28 2.53 PM.xcarchive/Products/Applications/Love letter.app/Love letter'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "JB63VVN2W3.Blifeinc.com.Love-letter";
+    "com.apple.developer.team-identifier" = JB63VVN2W3;
+    "get-task-allow" = 1;
+}
+2023-06-28 05:54:26 +0000  Entitlements for <IDEDistributionItem: 0x600021d56a00; bundleID='Blifeinc.com.Love-letter', path='<DVTFilePath:0x600011318460:'/Users/kjw/Library/Developer/Xcode/Archives/2023-06-28/Love letter 2023-06-28 2.53 PM.xcarchive/Products/Applications/Love letter.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600031b95bd0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600008f3ba70; name='Apple Development: HeeJeong Park (G9XF97H2JF)', hash='CCF6CD9E1F232FFE56D7C508AB6003F05BC1E237', serialNumber='50F990C9245384713146867468D2211D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-05-03 07:08:41 +0000''>', entitlements='{
+    "application-identifier" = "JB63VVN2W3.Blifeinc.com.Love-letter";
+    "com.apple.developer.team-identifier" = JB63VVN2W3;
+    "get-task-allow" = 1;
+}', teamID='JB63VVN2W3', identifier='Blifeinc.com.Love-letter', executablePath='<DVTFilePath:0x6000113eef40:'/Users/kjw/Library/Developer/Xcode/Archives/2023-06-28/Love letter 2023-06-28 2.53 PM.xcarchive/Products/Applications/Love letter.app/Love letter'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "JB63VVN2W3.Blifeinc.com.Love-letter";
+    "com.apple.developer.team-identifier" = JB63VVN2W3;
+    "get-task-allow" = 1;
+}
+2023-06-28 05:54:26 +0000  Writing entitlements for <IDEDistributionItem: 0x600021d56a00; bundleID='Blifeinc.com.Love-letter', path='<DVTFilePath:0x600011318460:'/Users/kjw/Library/Developer/Xcode/Archives/2023-06-28/Love letter 2023-06-28 2.53 PM.xcarchive/Products/Applications/Love letter.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600031b95bd0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600008f3bb20; name='Apple Development: HeeJeong Park (G9XF97H2JF)', hash='CCF6CD9E1F232FFE56D7C508AB6003F05BC1E237', serialNumber='50F990C9245384713146867468D2211D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-05-03 07:08:41 +0000''>', entitlements='{
+    "application-identifier" = "JB63VVN2W3.Blifeinc.com.Love-letter";
+    "com.apple.developer.team-identifier" = JB63VVN2W3;
+    "get-task-allow" = 1;
+}', teamID='JB63VVN2W3', identifier='Blifeinc.com.Love-letter', executablePath='<DVTFilePath:0x6000113eef40:'/Users/kjw/Library/Developer/Xcode/Archives/2023-06-28/Love letter 2023-06-28 2.53 PM.xcarchive/Products/Applications/Love letter.app/Love letter'>', hardenedRuntime='0'>'> to: /var/folders/2g/5hbtwk455rgbfp28lf7bv95h0000gn/T/XcodeDistPipeline.~~~OVoHxI/entitlements~~~zDYM8h
+2023-06-28 05:54:26 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CCF6CD9E1F232FFE56D7C508AB6003F05BC1E237' '--entitlements' '/var/folders/2g/5hbtwk455rgbfp28lf7bv95h0000gn/T/XcodeDistPipeline.~~~OVoHxI/entitlements~~~zDYM8h' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/2g/5hbtwk455rgbfp28lf7bv95h0000gn/T/XcodeDistPipeline.~~~OVoHxI/Root/Payload/Love letter.app'
+2023-06-28 05:54:26 +0000  /var/folders/2g/5hbtwk455rgbfp28lf7bv95h0000gn/T/XcodeDistPipeline.~~~OVoHxI/Root/Payload/Love letter.app: replacing existing signature
+2023-06-28 05:54:26 +0000  /var/folders/2g/5hbtwk455rgbfp28lf7bv95h0000gn/T/XcodeDistPipeline.~~~OVoHxI/Root/Payload/Love letter.app: signed app bundle with Mach-O thin (arm64) [Blifeinc.com.Love-letter]
+2023-06-28 05:54:26 +0000  /usr/bin/codesign exited with 0
+2023-06-28 05:54:26 +0000  Processing step: IDEDistributionZipODRItemStep
+2023-06-28 05:54:26 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-06-28 05:54:26 +0000  Processing step: IDEDistributionCreateIPAStep
+2023-06-28 05:54:26 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/2g/5hbtwk455rgbfp28lf7bv95h0000gn/T/XcodeDistPipeline.~~~OVoHxI/Root' '/var/folders/2g/5hbtwk455rgbfp28lf7bv95h0000gn/T/XcodeDistPipeline.~~~OVoHxI/Packages/Love letter.ipa'
+2023-06-28 05:54:26 +0000  >>> Copying /var/folders/2g/5hbtwk455rgbfp28lf7bv95h0000gn/T/XcodeDistPipeline.~~~OVoHxI/Root 
+2023-06-28 05:54:26 +0000  copying file ./Payload/Love letter.app/_CodeSignature/CodeResources ... 
+2023-06-28 05:54:26 +0000  6611 bytes for ./Payload/Love letter.app/_CodeSignature/CodeResources
+2023-06-28 05:54:26 +0000  copying file ./Payload/Love letter.app/Love letter ... 
+2023-06-28 05:54:26 +0000  663328 bytes for ./Payload/Love letter.app/Love letter
+2023-06-28 05:54:26 +0000  copying file ./Payload/Love letter.app/GoogleService-Info.plist ... 
+673 bytes for ./Payload/Love letter.app/GoogleService-Info.plist
+2023-06-28 05:54:26 +0000  copying file ./Payload/Love letter.app/Base.lproj/Main.storyboardc/shopView.nib ... 
+2023-06-28 05:54:26 +0000  1021 bytes for ./Payload/Love letter.app/Base.lproj/Main.storyboardc/shopView.nib
+copying file ./Payload/Love letter.app/Base.lproj/Main.storyboardc/0Jf-zX-9fL-view-nRS-Fb-Ymz.nib ... 
+2023-06-28 05:54:26 +0000  11304 bytes for ./Payload/Love letter.app/Base.lproj/Main.storyboardc/0Jf-zX-9fL-view-nRS-Fb-Ymz.nib
+copying file ./Payload/Love letter.app/Base.lproj/Main.storyboardc/uVv-9C-NX9-view-1c7-VG-Txk.nib ... 
+2023-06-28 05:54:26 +0000  14983 bytes for ./Payload/Love letter.app/Base.lproj/Main.storyboardc/uVv-9C-NX9-view-1c7-VG-Txk.nib
+copying file ./Payload/Love letter.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2023-06-28 05:54:26 +0000  978 bytes for ./Payload/Love letter.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Payload/Love letter.app/Base.lproj/Main.storyboardc/1QM-3h-Urn-view-GTa-DC-gA7.nib ... 
+2023-06-28 05:54:26 +0000  14481 bytes for ./Payload/Love letter.app/Base.lproj/Main.storyboardc/1QM-3h-Urn-view-GTa-DC-gA7.nib
+copying file ./Payload/Love letter.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2023-06-28 05:54:26 +0000  11136 bytes for ./Payload/Love letter.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/Love letter.app/Base.lproj/Main.storyboardc/letterpop.nib ... 
+2023-06-28 05:54:26 +0000  1023 bytes for ./Payload/Love letter.app/Base.lproj/Main.storyboardc/letterpop.nib
+copying file ./Payload/Love letter.app/Base.lproj/Main.storyboardc/Baq-G5-c7j-view-c3A-mE-6eg.nib ... 
+2023-06-28 05:54:26 +0000  4567 bytes for ./Payload/Love letter.app/Base.lproj/Main.storyboardc/Baq-G5-c7j-view-c3A-mE-6eg.nib
+copying file ./Payload/Love letter.app/Base.lproj/Main.storyboardc/setView.nib ... 
+2023-06-28 05:54:26 +0000  1023 bytes for ./Payload/Love letter.app/Base.lproj/Main.storyboardc/setView.nib
+copying file ./Payload/Love letter.app/Base.lproj/Main.storyboardc/letterView.nib ... 
+2023-06-28 05:54:26 +0000  1025 bytes for ./Payload/Love letter.app/Base.lproj/Main.storyboardc/letterView.nib
+copying file ./Payload/Love letter.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2023-06-28 05:54:26 +0000  367 bytes for ./Payload/Love letter.app/Base.lproj/Main.storyboardc/Info.plist
+2023-06-28 05:54:26 +0000  copying file ./Payload/Love letter.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2023-06-28 05:54:26 +0000  1197 bytes for ./Payload/Love letter.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/Love letter.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+896 bytes for ./Payload/Love letter.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2023-06-28 05:54:26 +0000  copying file ./Payload/Love letter.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+258 bytes for ./Payload/Love letter.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/Love letter.app/Assets.car ... 
+2023-06-28 05:54:26 +0000  2901360 bytes for ./Payload/Love letter.app/Assets.car
+copying file ./Payload/Love letter.app/embedded.mobileprovision ... 
+2023-06-28 05:54:26 +0000  16238 bytes for ./Payload/Love letter.app/embedded.mobileprovision
+copying file ./Payload/Love letter.app/Info.plist ... 
+2023-06-28 05:54:26 +0000  1613 bytes for ./Payload/Love letter.app/Info.plist
+copying file ./Payload/Love letter.app/PkgInfo ... 
+8 bytes for ./Payload/Love letter.app/PkgInfo
+2023-06-28 05:54:26 +0000  /usr/bin/ditto exited with 0
+2023-06-28 05:54:26 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2023-06-28 05:54:26 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2023-06-28 05:54:26 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2023-06-28 05:54:26 +0000  IDEDistributionItem init <DVTFilePath:0x60001135de30:'/var/folders/2g/5hbtwk455rgbfp28lf7bv95h0000gn/T/XcodeDistPipeline.~~~OVoHxI/Root/Payload/Love letter.app'>
+2023-06-28 05:54:26 +0000  Processing step: IDEDistributionCreateManifestStep
